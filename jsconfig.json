@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@libs/*": ["./libs/*"],
+      "@schema/*": ["./schema/*"]
+    }
+  }
+}
